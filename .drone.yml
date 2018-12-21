@@ -7,3 +7,4 @@ steps:
     commands:
       - echo "Hello, world!"
       - echo "Hello, Tom!"
+      - echo "Hello, A!"
