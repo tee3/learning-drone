@@ -1,0 +1,9 @@
+kind: pipeline
+name: default
+
+steps:
+  - name: test
+    image: fedora:29
+    commands:
+      - echo "Hello, world!"
+      - echo "Hello, Tom!"
